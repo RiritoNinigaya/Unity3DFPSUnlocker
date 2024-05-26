@@ -1,2 +1,7 @@
 # Unity3DFPSUnlocker
-Unity3DFPSUnlocker by RiritoNinigaya
+
+It is My First DLL Program for Fix FPS Bug on Unity3D... So Enjoy to use this!!!
+
+## Donation
+
+Soon!!!
